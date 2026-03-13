@@ -370,4 +370,4 @@ module.exports = {
     getTotalActiveHoursPerMonth,
     getRequiredHoursPerMonth,
     getNetPay
-};
+}; 
